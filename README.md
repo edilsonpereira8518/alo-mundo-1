@@ -5,3 +5,6 @@ nova mensagem no arquivo.
 
 
 linha adicionada no branch develop
+
+
+informacao adicionada pelo colega
